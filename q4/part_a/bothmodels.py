@@ -1,7 +1,3 @@
-# Author: Anders Johansson (a.johansson@bristol.ac.uk)
-# Description: This file contains functionality to simulate pedestrian crowds.
-# Date: 2024-10-10
-
 from matplotlib import pyplot as plt
 import random
 import math
