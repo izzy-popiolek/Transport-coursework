@@ -4,3 +4,5 @@ All code used to generate solutions to Transport and Mobility Modelling coursewo
 It is a mixture of MATLAB and Python.
 
 The assignment instructions can be found in "TMM2024CourseworkAssignment.pdf".
+
+![](https://github.com/izzy-popiolek/Transport-coursework/blob/main/videos/freeflow_gif.mp4)
