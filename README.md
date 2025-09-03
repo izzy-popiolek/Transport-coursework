@@ -5,4 +5,4 @@ It is a mixture of MATLAB and Python.
 
 The assignment instructions can be found in "TMM2024CourseworkAssignment.pdf".
 
-![](https://github.com/izzy-popiolek/Transport-coursework/blob/main/videos/freeflow_gif.mp4)
+![](https://github.com/izzy-popiolek/Transport-coursework/blob/main/trafficlight_gif1.gif)
